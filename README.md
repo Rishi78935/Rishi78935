@@ -1,38 +1,39 @@
 # A. Rishikesh
 
-**Electrical Engineering Student | Embedded Systems | Electronics R&D | Robotics & Control**
+**Electrical Engineering Student · Embedded Systems · Electronics R&D · Robotics & Control**
 
 B.Tech Electrical Engineering · CVR College of Engineering, Hyderabad · Expected 2028  
-Open to internships · Hyderabad, India
+Open to engineering internships · Hyderabad, India
 
-[🌐 Portfolio] · [💻 Aahaar Scanner Repository](https://github.com/Rishi78935/First-Project)(https://rishi78935.github.io/rishi-portfolio/) · [LinkedIn](https://www.linkedin.com/in/rishikesh-a-71139b366/) · [Email](mailto:rishi.78935@gmail.com)
+[Portfolio](https://rishi78935.github.io/rishi-portfolio/) · [GitHub](https://github.com/Rishi78935) · [LinkedIn](https://www.linkedin.com/in/rishikesh-a-71139b366/) · [Email](mailto:rishi.78935@gmail.com)
 
 ## About
 
-I build and test physical systems around **embedded hardware, sensors, control, and electronics**. My current work is focused on turning engineering concepts into measurable prototypes.
+I build and test physical systems around **embedded hardware, sensors, control, and electronics**. My projects focus on turning engineering concepts into measurable prototypes.
 
-**Focus areas**
+### Focus areas
+
 - Embedded systems and firmware
 - Circuit and PCB design
 - Sensors and instrumentation
 - Robotics and feedback control
 - Power and battery electronics
-- Verilog/SystemVerilog
+- Verilog / SystemVerilog
 
 ## Featured Projects
 
 ### 🔬 Aahaar Scanner
 **Portable spectral sensing device for fruit quality analysis**
 
-Working prototype combining:
+A working prototype built around:
 - ESP32-S3 + AS7341 spectral sensing
-- Optical illumination and sensor integration
-- OLED/TFT user interface
-- Dataset collection and processing
-- Embedded inference
+- Controlled illumination and optical integration
+- OLED / TFT interface
+- Labeled spectral data collection
+- Data processing and embedded ML experiments
 - Schematic and PCB development
 
-[View portfolio →](https://rishi78935.github.io/rishi-portfolio/)
+[Repository →](https://github.com/Rishi78935/Aahaar-Scanner) · [Portfolio →](https://rishi78935.github.io/rishi-portfolio/)
 
 ### 🧲 Electromagnetic Maglev
 **Magnetic levitation with Hall-sensor feedback and PID control**
@@ -41,15 +42,15 @@ Working prototype combining:
 - Hall-sensor position feedback
 - PWM control
 - MCU-based control loop
-- MATLAB/Simulink modelling
+- MATLAB / Simulink modelling
 - Physical levitation achieved; development continues
 
-[View portfolio →](https://rishi78935.github.io/rishi-portfolio/)
+[Portfolio →](https://rishi78935.github.io/rishi-portfolio/)
 
 ### 🔋 3S Li-ion Battery Protection & Monitoring
 **Embedded battery electronics project**
 
-Currently being developed around:
+Planned around:
 - Cell-voltage monitoring
 - Current sensing
 - Temperature monitoring
@@ -96,7 +97,7 @@ Measured Result
 
 **B.Tech Electrical Engineering**  
 CVR College of Engineering, Hyderabad  
-Expected 2028 · CGPA 8.2/10
+Expected 2028 · CGPA 8.2 / 10
 
 ## Contact
 
@@ -105,4 +106,5 @@ Expected 2028 · CGPA 8.2/10
 - **Portfolio:** [rishi78935.github.io/rishi-portfolio](https://rishi78935.github.io/rishi-portfolio/)
 
 ---
+
 *Building hardware, measuring results, and improving from evidence.*
