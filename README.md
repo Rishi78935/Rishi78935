@@ -5,7 +5,7 @@
 B.Tech Electrical Engineering · CVR College of Engineering, Hyderabad · Expected 2028  
 Open to internships · Hyderabad, India
 
-[🌐 Portfolio](https://rishi78935.github.io/rishi-portfolio/) · [LinkedIn](https://www.linkedin.com/in/rishikesh-a-71139b366/) · [Email](mailto:rishi.78935@gmail.com)
+[🌐 Portfolio] · [💻 Aahaar Scanner Repository](https://github.com/Rishi78935/First-Project)(https://rishi78935.github.io/rishi-portfolio/) · [LinkedIn](https://www.linkedin.com/in/rishikesh-a-71139b366/) · [Email](mailto:rishi.78935@gmail.com)
 
 ## About
 
